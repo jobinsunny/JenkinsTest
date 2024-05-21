@@ -152,7 +152,7 @@ windows-slaves:1.8.1
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1311.v4250456a_e552
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
-workflow-cps-global-lib612.v55f2f80781ef
+workflow-cps-global-lib:612.v55f2f80781ef
 workflow-cps:3894.3896.vca_2c931e7935
 workflow-durable-task-step:1353.v1891a_b_01da_18
 workflow-job:1415.v4f9c9131248b_
