@@ -32,7 +32,7 @@ build-name-setter:2.4.2
 build-pipeline-plugin:2.0.2
 claim:543.v0061de6b_dcb_d
 cloudbees-bitbucket-branch-source:886.v44cf5e4ecec5
-cloudbees-folder:6.897.vb_943ea_6b_a_08b_
+cloudbees-folder:6.901.vb_4c7a_da_75da_3
 command-launcher:107.v773860566e2e
 conditional-buildstep:1.4.3
 config-file-provider:973.vb_a_80ecb_9a_4d0
@@ -127,7 +127,7 @@ pubsub-light:1.18
 rebuild:332.va_1ee476d8f6d
 repository-connector:2.2.1
 resource-disposer:0.23
-role-strategy:727.vd344b_eec783d
+role-strategy:717.v6a_69a_fe98974
 run-condition:1.7
 scm-api:690.vfc8b_54395023
 script-security:1336.vf33a_a_9863911
@@ -155,7 +155,7 @@ workflow-basic-steps:1058.vcb_fc1e3a_21a_9
 workflow-cps-global-lib:612.v55f2f80781ef
 workflow-cps:3894.3896.vca_2c931e7935
 workflow-durable-task-step:1353.v1891a_b_01da_18
-workflow-job:1385.vb_58b_86ea_fff1
+workflow-job:1400.v7fd111b_ec82f
 workflow-multibranch:773.vc4fe1378f1d5
 workflow-remote-loader:1.6
 workflow-scm-step:427.v4ca_6512e7df1
