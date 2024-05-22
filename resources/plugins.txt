@@ -1,7 +1,5 @@
-ace-editor:1.1
 ansicolor:1.0.4
 ant:497.v94e7d9fffa_b_9
-antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
 blueocean:1.27.12
@@ -39,7 +37,6 @@ config-file-provider:973.vb_a_80ecb_9a_4d0
 copyartifact:722.v0662a_9b_e22a_c
 credentials-binding:677.vdc9d38cb_254d
 credentials:1337.v60b_d7b_c7b_c9f
-cucumber-reports:5.8.1
 cvs:2.19.1
 dashboard-view:2.508.va_74654f026d1
 dependency-check-jenkins-plugin:5.5.0
@@ -58,7 +55,6 @@ envinject:2.908.v66a_774b_31d93
 environment-dashboard:1.1.10
 extensible-choice-parameter:1.8.1
 favorite:2.208.v91d65b_7792a_c
-gatling:1.3.0
 git-client:4.7.0
 git-server:117.veb_68868fa_027
 git:5.2.2
@@ -69,7 +65,6 @@ github-organization-folder:1.6
 github:1.39.0
 gitlab-plugin:1.8.1
 global-build-stats:293.vd7b_d6e361475
-greenballs:1.15.1
 groovy:457.v99900cb_85593
 handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-30.v7e777411b_148
@@ -92,7 +87,6 @@ junit:1265.v65b_14fa_f12f0
 junit-attachments:205.vc0677977deb_0
 ldap:725.v3cb_b_711b_1a_ef
 mailer:472.vf7c289a_4b_420
-mapdb-api:1.0.9-40.v58107308b_7a_7
 mask-passwords:173.v6a_077a_291eb_5
 matrix-auth:3.2.2
 matrix-project:822.824.v14451b_c0fd42
@@ -139,7 +133,6 @@ ssh-agent:367.vf9076cd4ee21
 ssh-credentials:337.v395d2403ccd4
 ssh-slaves:2.948.vb_8050d697fec
 structs:337.v1b_04ea_4df7c8
-subversion:1256.vee91953217b_6
 swarm:3.45
 tap:2.4.2
 thinBackup:2.0
